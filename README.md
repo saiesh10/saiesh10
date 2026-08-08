@@ -34,6 +34,9 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🔹 **[Lab-Sync](https://github.com/saiesh10/Lab-Sync)** | Streamlined lab scheduling & coordination system for students and faculty | React · Node.js · MongoDB |
+| 🔹 **[TestBuddy](https://github.com/zb8ne/TestBuddy)** | AI-assisted testing/study companion tool | TypeScript · Java · Docker |
+| 🔹 **[Attendance Management System](https://github.com/saiesh10/attendence-managment-system-workshop-)** | Workshop project for tracking and managing attendance | JavaScript · CSS · HTML |
+| 🔹 **[VerifySphere AI](https://github.com/zb8ne/verifysphere-ai)** | AI-powered verification system | TypeScript · Java · Docker |
 | 🔹 *More projects coming soon* | — | — |
 
 <br>
